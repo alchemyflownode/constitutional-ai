@@ -1,17 +1,19 @@
-﻿# 🧠 Build Your Own AI — Without Breaking Anything
+﻿# Constitutional AI - Open Source Governance Platform
 
-Ever wanted your **own AI** running on your computer —  
-but didn’t want to mess up your system, install 20 tools, or read docs for hours?
+## Free & Open Source:
+✅ Local AI guardrails for Ollama
+✅ Beautiful web UI
+✅ 15+ model support  
+✅ Community contributions
+✅ MIT Licensed
 
-**This project is for you.**
+## Premium Features (Future):
+🔒 **Resparse Trainer** - Advanced fine-tuning
+🔒 Enterprise compliance tools  
+🔒 Custom constitutional layers
+🔒 Priority support
 
-👉 Click buttons.  
-👉 Pick a brain.  
-👉 Teach it rules.  
-👉 Name it.  
-👉 It’s yours.
-
-Runs locally using Ollama.  
-Your data never leaves your machine.
-
----
+## Why Open Source?
+We believe AI safety should be transparent and accessible.
+The core governance framework should be free.
+Advanced training/commercial features will support development.
