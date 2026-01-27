@@ -1,0 +1,6 @@
+﻿{
+    "ollama_path": "",
+    "default_brain": "Creative AI",
+    "memory_enabled": true,
+    "web_enabled": false
+}

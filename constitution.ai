@@ -1,0 +1,13 @@
+# CONSTITUTIONAL AI GOVERNANCE
+
+ARTICLE I: DATA SOVEREIGNTY
+- All training occurs locally
+- No data leaves your machine
+
+ARTICLE II: OLLAMA INTEGRATION  
+- Uses local Ollama models only
+- No external API calls
+
+ARTICLE III: AUDIT TRAIL
+- All actions are logged
+- Constitutional checks are enforced
